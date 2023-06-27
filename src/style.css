@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 90%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.titulo {
+    font-family:'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botão-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posição-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
